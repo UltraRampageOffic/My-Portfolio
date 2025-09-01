@@ -1,0 +1,25 @@
+/* Basic styling for the projects section */
+.projects-section {
+  background-color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+/* Section title */
+.section-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+/* Project card styles */
+.project-card {
+  background-color: blue;
+  border: 1px solid  blueviolet;
+  padding: 15px;
+  margin: 10px auto;
+  width: 80%;
+  max-width: 400px;
+  font-size: 18px;
+  border-radius: 5px;
+}
